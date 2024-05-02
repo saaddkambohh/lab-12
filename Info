@@ -1,2 +1,6 @@
 Saad Kamboh
 23-st-035
+cout << "The sum of two numbers" << a + b << endl;
+cout << "The difference of two numbers" << a-b << endl;
+cout << "The Product of two numbers" << a*b<< endl;
+cout << "The division of two numbers" << a/b<< endl;
