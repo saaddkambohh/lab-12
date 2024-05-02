@@ -1,2 +1,3 @@
 Saad Kamboh
 23-st-035
+cout << "The sum of two numners" << a + b << endl;
